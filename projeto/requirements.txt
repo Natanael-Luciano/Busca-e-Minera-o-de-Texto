@@ -1,0 +1,5 @@
+openpyxl==3.0.9
+pytz==2022.1
+chardet==5.2.0
+jsno
+joblib
